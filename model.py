@@ -72,12 +72,6 @@ import sys
 from keras.layers import concatenate
 from keras import layers
 
-from keras.models import Sequential
-from keras.layers import Conv2D, MaxPooling2D, Convolution2D, MaxPooling1D, GlobalMaxPooling1D, GlobalAveragePooling1D
-from keras.layers import Dense, Dropout, Activation, Flatten
-from keras.layers import Dense
-from keras.layers import Flatten, Dense, Reshape
-from keras.layers import LSTM
 from keras.layers import Embedding
 
 from keras.layers import Input, Dense, LSTM, MaxPooling1D, Conv1D, RepeatVector
