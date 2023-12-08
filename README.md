@@ -6,3 +6,4 @@ My master's thesis work involves implementing a drug-drug interaction prediction
 
 First, we need to  extract feature vector representation of drugs from the KGs, using RDF2Vec. Then the embedded vectors are used to train the proposed attention DNN model.
 
+You can find my master thesis report in rapport.pdf
